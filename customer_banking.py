@@ -4,7 +4,11 @@
 from savings_account import create_savings_account
 from cd_account import create_cd_account
 
+# NOTE: The "print("num")" method that is commented out in this document is to
+        # help debug different segements of the code when ran in the terminal.)"
+
 # Define the main function
+
 def main():
 
     """This function prompts the user to enter the savings and cd account balance, interest rate,

@@ -12,6 +12,9 @@ def create_cd_account(balance, interest_rate, months):
 
     return cd_account, interest_earned
 
+# NOTE: The "print("num")" method that is commented out in this document is to
+        # help debug different segements of the code when it run in the terminal.)"
+
 # print("1")
 
 """Creates a CD account, calculates interest earned, and updates the account balance.

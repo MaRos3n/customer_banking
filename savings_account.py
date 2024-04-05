@@ -4,7 +4,7 @@
 from Account import Account
 
 # NOTE: The "print("num")" method that is commented out in this document is to
-        # help debug different segements of the code when it run in the terminal.)"
+        # help debug different segements of the code when ran in the terminal.)"
 
 # print("1")
 
